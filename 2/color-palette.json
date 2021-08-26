@@ -1,0 +1,23 @@
+{
+	"font": "ABeeZee",
+	"orange": {
+		"primary": {
+			"color": "#e34c0f",
+			"gradient": ["#e3810f", "#e3170f"]
+		},
+		"secondary": {
+			"color": "#291408",
+			"gradient": ["#291c08", "#290c08"]
+		}
+	},
+	"purple": {
+		"primary": {
+			"color": "#7159c1",
+			"gradient": ["#8b59c1", "#595bc1"]
+		},
+		"secondary": {
+			"color": "#191422",
+			"gradient": ["#1d1422", "#161422"]
+		}
+	}
+}
